@@ -1,5 +1,5 @@
 import React from "react";
-import Img from "../../assets/2.png";
+import Img from "../../assets/2.webp";
 import Img1 from "../../assets/3.png";
 const Section1 = () => {
   return (
